@@ -7,6 +7,10 @@
 
 Eu sou um desenvolvedor full stack que usa Laravel, Vue.js, Inertia.js, e Tailwind CSS (VILT stack) para maior facilidade. Trabalho em projetos e aprendo novas coisas frequentemente, seja dentro ou fora do GitHub. 🚀
 
+## Atualmente trabalhando em:
+
+[![Página estática de academia](https://github-readme-stats.vercel.app/api/pin/?username=TacioDaito&repo=movestyle&theme=radical)](https://github.com/TacioDaito/movestyle)
+
 ## 📫 Quer falar comigo?
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/tacio-kikuchi-a2b675120)

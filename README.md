@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Olá, meu nome é Tacio Kikuchi!
 
-<!--
-**TacioDaito/TacioDaito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Laravel](https://img.shields.io/badge/Laravel-F72C1F?style=for-the-badge&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vue.js&logoColor=white)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-5A67D8?style=for-the-badge&logo=javascript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-Here are some ideas to get you started:
+Eu sou um desenvolvedor full stack que usa Laravel, Vue.js, Inertia.js, e Tailwind CSS (VILT stack) para maior facilidade. Trabalho em projetos e aprendo novas coisas frequentemente, seja dentro ou fora do GitHub. 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Quer falar comigo?
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/tacio-kikuchi-a2b675120)
+- 📬 taciokikuchi@gmail.com
+
+---
+
+⭐️ Por [TacioDaito](https://github.com/TacioDaito)

@@ -1,21 +1,19 @@
-# 👋 Olá, meu nome é Tacio Kikuchi!
+# Tacio Kikuchi
 
 ![Laravel](https://img.shields.io/badge/Laravel-F72C1F?style=for-the-badge&logo=laravel&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Inertia.js](https://img.shields.io/badge/Inertia.js-5A67D8?style=for-the-badge&logo=javascript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-Eu sou um desenvolvedor full stack que usa Laravel, Vue.js, Inertia.js, e Tailwind CSS (VILT stack) para maior facilidade. Trabalho em projetos e aprendo novas coisas frequentemente, seja dentro ou fora do GitHub. 🚀
+I'm a full-stack developer who uses Laravel (PHP backend), Vue.js (JavaScript frontend), PostgreDB, MariaDB for ease of use. I work on projects and learn new things frequently, both on and off GitHub.
 
-## Atualmente trabalhando em:
+## Current Personal Project
 
-[![Página estática de academia](https://github-readme-stats.vercel.app/api/pin/?username=TacioDaito&repo=movestyle&theme=radical&cache_seconds=86400)](https://github.com/TacioDaito/movestyle)
+[![SaaS B2B de Análise de Colaboladores]](https://github.com/TacioDaito/folkeep)
 
-## 📫 Quer falar comigo?
+## Contact
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/tacio-kikuchi-a2b675120)
 - 📬 taciokikuchi@gmail.com
 
 ---
-
-⭐️ Por [TacioDaito](https://github.com/TacioDaito)

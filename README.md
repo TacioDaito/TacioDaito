@@ -11,7 +11,7 @@ I'm a full-stack developer who uses Laravel (PHP backend), Vue.js (JavaScript fr
 
 ## Current Personal Project
 
-![**SaaS B2B People Analytics**](https://github.com/TacioDaito/folkeep)
+[**SaaS B2B People Analytics**](https://github.com/TacioDaito/folkeep)
 
 ## Contact
 

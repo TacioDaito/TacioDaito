@@ -10,8 +10,9 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-I'm a full-stack developer who uses Laravel (PHP backend), Vue.js (JavaScript frontend), PostgreDB, MariaDB for ease of use. I work on projects and learn new things frequently, both on and off GitHub.
+Computer engineer graduated from UFPA and a developer who builds modular, scalable, full-stack web applications. I have hands-on experience mainly with Laravel, PHP, Vue.js, and JavaScript, complemented by some in React.js, Next.js, and TypeScript. 
 
+My most recent team experience was with eSocialBrasil's dev team, where I made the system more robust through a series of systematic bug fixes and refactoring. The product is a monolithic Laravel/Vue/HTMX SaaS B2B system for managing occupational safety and health.
 ## Current Personal Project
 
  ### [**Folkeep: SaaS B2B People Analytics**](https://github.com/users/TacioDaito/projects/2)
